@@ -7,3 +7,6 @@
 * State management for winner, current hand, current phase targets, etc.
 * Drag and drop cards
 * Reorganize hand
+
+## Technologies Used
+React, Bootstrap
